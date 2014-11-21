@@ -233,7 +233,7 @@ p, label {
 
 /* Twitter Widget */
 
-#twitter-widget-0 {
+iframe#twitter-widget-0 {
     width: 640px;
 }
     
